@@ -1,0 +1,42 @@
+.about-section {
+    width: 100%;
+}
+
+.celeb-card {
+    margin-top: 10vh;
+    margin-left: 5vw;
+    width: 60%;
+    height: 50%;
+    display: flex;
+    border: 1px solid black;
+    
+}
+
+
+
+.image {
+    width: 40%;
+}
+
+.celeb-info {
+    width: 60%;
+    background-color: black;
+}
+
+.info-wrapper {
+    width: 90%;
+    margin: 10px auto;
+}
+
+h2 {
+    color: tomato;
+}
+
+h2, h5, p {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+li {
+    margin: 5px;
+}
