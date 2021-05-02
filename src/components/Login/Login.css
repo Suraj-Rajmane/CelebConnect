@@ -2,9 +2,9 @@
     position: relative;
     top: 15%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
     width: 25%;
-    height: 45%;
+    height: 50%;
     border-radius: 20px;
     background-color: #DE354C;
     color: white;
@@ -38,3 +38,8 @@
     
 }
 
+.adjustment {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
