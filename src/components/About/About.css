@@ -1,13 +1,13 @@
 .about-section {
     width: 100%;
-    height: 90%;
+    height: 80%;
 }
 
 .celeb-card {
     margin-top: 10vh;
     margin-left: 5vw;
     width: 60%;
-    height: 50%;
+    height: 63%;
     display: flex;
     border: 1px solid black;
     
